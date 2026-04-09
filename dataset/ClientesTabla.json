@@ -1,5 +1,5 @@
 {
-	"name": "Clientes",
+	"name": "ClientesTabla",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorageOutput",
