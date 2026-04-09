@@ -1,0 +1,7 @@
+{
+	"name": "FromSQLDBtoSA",
+	"properties": {
+		"description": "copiar datos de DB a storage account",
+		"annotations": []
+	}
+}
